@@ -843,6 +843,6 @@ License MIT - separate file in repository.
 **Private Methods**: 2 helper utilities (`FormatColumns`, `SheetExist`)
 **Lifecycle Methods**: 2 automatic handlers (`Class_Initialize`, `Class_Terminate`)
 
-##Author: Grzegorz Dokowicz
+## Author: Grzegorz Dokowicz
 
-##LinkedIn profile: https://www.linkedin.com/in/grzegorz-dokowicz-49428a139/
+## LinkedIn profile: https://www.linkedin.com/in/grzegorz-dokowicz-49428a139/
